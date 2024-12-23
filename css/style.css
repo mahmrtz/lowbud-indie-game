@@ -1,0 +1,25 @@
+.map img{
+    display: none;
+}
+
+
+.player img{
+    scale: 30%;
+    position: absolute;
+    top: 460px;
+    left: 80px;
+    transition: 0.5s;
+    display: none;
+}
+
+
+
+
+#mapDetails{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 250px;
+    top: 10px;
+
+}
